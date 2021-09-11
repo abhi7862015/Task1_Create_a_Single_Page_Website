@@ -666,7 +666,7 @@ video {
     height: 40vh;
     justify-content: center;
     align-items: center;
-    background-image: url('../Images/images (18).jpeg');
+    background-image: url('./Images/images (18).jpeg');
     background-repeat: no-repeat;
     background-size: 1550px 290px;
 }
